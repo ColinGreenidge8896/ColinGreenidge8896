@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [DriveTrain - Driving Tracker](https://github.com/ColinGreenidge8896/DriveTrain)
 
+- 🐯 Check out my favorite project - [Task Tiger!](https://github.com/P-William/Y1T2_CSCN71030_Section-1_Group_3/tree/175ad9d922b3942bbdd3745b849e18d45fe41b13/TaskTiger)
+
 - 📫 How to reach me **cbg750@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
