@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Colin</h1>
-<h3 align="center">A computer science student and developer from Canada</h3>
+<h1 align="center">Hi, I'm Colin</h1>
+<h3 align="center">A computer science student and software developer from Guelph, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colingreenidge8896&label=Profile%20views&color=0e75b6&style=flat" alt="colingreenidge8896" /> </p>
 
-- 🤖 Check out [Robo Rush](https://th3-hero.itch.io/roborush) made during the Spring 2025 CVRI Game Jam! Made by our group, the 418 Teapots.
+- Check out [Robo Rush](https://th3-hero.itch.io/roborush) made during the Spring 2025 CVRI Game Jam! Made by our group, the 418 Teapots.
 
-- 🔭 My latest learning project, [DriveTrain - Driving Tracker](https://github.com/ColinGreenidge8896/DriveTrain)
+- My latest learning project, [DriveTrain - Driving Tracker](https://github.com/ColinGreenidge8896/DriveTrain)
 
-- 🐯 Check out my favorite project - [Task Tiger!](https://github.com/ColinGreenidge8896/TaskTiger)
+- Check out my favorite project - [Task Tiger!](https://github.com/ColinGreenidge8896/TaskTiger)
 
-- 📫 How to reach me: **colin.b.greenidge@gmail.com**
+- How to reach me: **colin.b.greenidge@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
