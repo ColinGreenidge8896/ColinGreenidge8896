@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Colin</h1>
-[Portfolio Site](https://colingreenidge8896.github.io/ColinGreenidge8896/)
+<h2 align="center">[Portfolio Site](https://colingreenidge8896.github.io/ColinGreenidge8896/)</h2>
 <h3 align="center">A computer science student and software developer from Guelph, Canada</h3>
 
 - Check out [Robo Rush](https://th3-hero.itch.io/roborush) made during the Spring 2025 CVRI Game Jam! Made by the 418 Teapots.
