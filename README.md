@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Colin</h1>
+<h2 align="left">[Portfolio Site](https://colingreenidge8896.github.io/ColinGreenidge8896/)
 <h3 align="center">A computer science student and software developer from Guelph, Canada</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=colingreenidge8896&label=Profile%20views&color=0e75b6&style=flat" alt="colingreenidge8896" /> </p>
 
 - Check out [Robo Rush](https://th3-hero.itch.io/roborush) made during the Spring 2025 CVRI Game Jam! Made by the 418 Teapots.
 
@@ -21,3 +20,5 @@
 - You can also reach me at **colin.b.greenidge@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colingreenidge8896&show_icons=true&locale=en&layout=compact" alt="colingreenidge8896" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=colingreenidge8896&label=Profile%20views&color=0e75b6&style=flat" alt="colingreenidge8896" /> </p>
