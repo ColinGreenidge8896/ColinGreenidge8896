@@ -13,7 +13,7 @@
 - Interested in backend development, distributed systems, and networking
 - Experience with C, C++, Java, React, MySQL, and Unity
 - Building backend systems, web apps, and networked applications
-- Currently seeking a **2026 Co-op Internship**
+- Currently seeking a **Summer & Fall 2026 Co-op**
 
 
 ## Tech Stack
