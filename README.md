@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Colin</h1>
 
 <h1><a href="https://colingreenidge8896.github.io/ColinGreenidge8896">
-    My Portfolio Site
+    Portfolio
   </a></h1>
 
 <h3> Projects</h3>
