@@ -1,28 +1,61 @@
 <h1 align="center">
-  <a href="https://colingreenidge8896.github.io/ColinGreenidge8896">
-    Hey, I'm Colin
+  <a href="https://colingreenidge8896.github.io/ColinGreenidge8896" style="text-decoration: none; color: inherit;">
+    Colin Greenidge
   </a>
 </h1>
 
-<h3> Projects</h3>
-
-- Check out [Robo Rush](https://th3-hero.itch.io/roborush) made during the Spring 2025 CVRI Game Jam! Made by the 418 Teapots.
-
-- A recent project, [GhostBusters, Backend Service - Enterprise Dev & Integration](https://github.com/ColinGreenidge8896/Project5Database)
-
-- Check out my favorite project from early in my dev career - [Task Tiger!](https://github.com/ColinGreenidge8896/TaskTiger)
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> </a> </p>
-
-
-<h3 align="left">Connect With Me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/colin-greenidge/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/colin-greenidge" height="30" width="40" /></a>
+<p align="center">
+  Backend • Security • Systems Development
 </p>
 
-- You can also reach me at **colin.b.greenidge@gmail.com**
+## About Me
+- Computer Science student at Conestoga College
+- Interested in backend development, distributed systems, and networking
+- Experience with C, C++, Java, React, MySQL, and Unity
+- Building backend systems, web apps, and networked applications
+- Currently seeking a **2026 Co-op Internship**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colingreenidge8896&show_icons=true&locale=en&layout=compact" alt="colingreenidge8896" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=colingreenidge8896&label=Profile%20views&color=0e75b6&style=flat" alt="colingreenidge8896" /> </p>
+## Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-28a745?style=for-the-badge" />
+</p>
+
+
+## Projects
+- [Robo Rush](https://th3-hero.itch.io/roborush) – Unity game made in 4 days during CVRI Game Jam
+- [GhostBusters - Backend](https://github.com/ColinGreenidge8896/Project5Database) – Enterprise backend service with database integration
+- [Task Tiger](https://github.com/ColinGreenidge8896/TaskTiger) – Task management application with a companion
+- [BookEZ Booking Manager](https://github.com/Digi-Bomb/Group-15-Project-VI) – Containerized webserver & database 
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=colingreenidge8896&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=colingreenidge8896&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=colingreenidge8896&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=colingreenidge8896&theme=tokyo-night" height="170"/>
+</p>
+
+
+## Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/colin-greenidge/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:colin.b.greenidge@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://colingreenidge8896.github.io/ColinGreenidge8896">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages" />
+</a>
+</p>
