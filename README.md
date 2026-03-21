@@ -1,8 +1,8 @@
-<h1 align="center">Hey, I'm Colin</h1>
-
-<h1><a href="https://colingreenidge8896.github.io/ColinGreenidge8896">
-    Portfolio
-  </a></h1>
+<h1 align="center">
+  <a href="https://colingreenidge8896.github.io/ColinGreenidge8896">
+    Hey, I'm Colin
+  </a>
+</h1>
 
 <h3> Projects</h3>
 
