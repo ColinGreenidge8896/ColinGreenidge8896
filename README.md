@@ -15,7 +15,7 @@
 
 ## About Me
 
-CS student at Conestoga College with a **Network Security minor**, focused on backend systems and low-level networking. I like understanding how things work under the hood — from socket protocols to containerized deployments.
+CS student at Conestoga College with a **Network Security major**, focused on backend systems and low-level networking. I like understanding how things work under the hood — from socket protocols to containerized deployments.
 
 -  Network Security Minor
 -  Building backend systems, networked applications, and security tooling
