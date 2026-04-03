@@ -15,11 +15,10 @@
 
 ## About Me
 
-CS student at Conestoga College with a **Network Security specialization**, focused on backend systems and low-level networking. I like understanding how things work under the hood — from socket protocols to containerized deployments.
+CS student at Conestoga College in the **Network Security specialization**, focused on backend systems and security within the new technological age. 
 
--  Network Security Minor
--  Building backend systems, networked applications, and security tooling
--  Comfortable working close to the metal — C, C++, sockets, Linux
+-  Network Security stream
+-  Building backend systems, networked applications, and useful projects
 -  Looking for a co-op where I can contribute to real systems
 
 ## Tech Stack
