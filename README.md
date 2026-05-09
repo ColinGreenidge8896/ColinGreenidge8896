@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://colingreenidge8896.github.io/ColinGreenidge8896" style="text-decoration: none; color: inherit;">
+  <a href="http://colins-pi.tail7346be.ts.net/" style="text-decoration: none; color: inherit;">
     Colin Greenidge
   </a>
 </h1>
