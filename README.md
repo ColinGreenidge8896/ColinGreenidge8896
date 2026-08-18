@@ -4,10 +4,10 @@
 <p align="center">
   Backend • Security • Systems Development
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-28a745?style=flat-square" />
   <img src="https://img.shields.io/badge/Summer%20%26%20Fall%202026%20Co--op-1a1a2e?style=flat-square" />
-</p>
+</p> -->
 
 <hr>
 
